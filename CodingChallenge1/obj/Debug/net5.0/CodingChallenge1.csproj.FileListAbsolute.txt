@@ -1,0 +1,16 @@
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.exe
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.deps.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.runtimeconfig.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.runtimeconfig.dev.json
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\ref\CodingChallenge1.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\bin\Debug\net5.0\CodingChallenge1.pdb
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.csproj.AssemblyReference.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.AssemblyInfo.cs
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\ref\CodingChallenge1.dll
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.pdb
+C:\Users\evana\OneDrive - Colorado Community College System\School\UCCS\C# programming\In Class Projects\CodingChallenge1\CodingChallenge1\obj\Debug\net5.0\CodingChallenge1.genruntimeconfig.cache
